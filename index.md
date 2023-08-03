@@ -4,7 +4,7 @@ Supposedly the internet is where one documents what one has learned. For example
 
 With new age federated socials called <a rel="me" href="https://mastodon.social/@skattoju">Mastodon</a> and <a rel="mypixels" href="https://pixelfed.social/i/web/profile/580938769890078559">PixelFed</a>, who needs big tech ?
 
-## <a>Kubernesis href="https://kubernesis.dev"</a>
+## <a href="https://kubernesis.dev">Kubernesis</a>
 
 ## Zero Emissions Learning
 
