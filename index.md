@@ -4,6 +4,8 @@ Supposedly the internet is where one documents what one has learned. For example
 
 With new age federated socials called <a rel="me" href="https://mastodon.social/@skattoju">Mastodon</a> and <a rel="mypixels" href="https://pixelfed.social/i/web/profile/580938769890078559">PixelFed</a>, who needs big tech ?
 
+## <a>Kubernesis href="https://kubernesis.dev"</a>
+
 ## Zero Emissions Learning
 
 May be all this talk about learning exhaust is non sense. Probably causes the information entropy equivalent of global warming making it harder to descern useful information. Or may be not. May be ones own brand of self importance is vital to the internet on some thread of its fabric 🤷‍♂️ It all about going green.
