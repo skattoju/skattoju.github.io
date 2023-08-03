@@ -11,9 +11,10 @@ With new age federated socials called <a rel="me" href="https://mastodon.social/
 
 ## Zero Emissions Learning
 
-May be all this talk about learning exhaust is non sense. Probably causes the information entropy equivalent of global warming making it harder to descern useful information. Or may be not. May be ones own brand of self importance is vital to the internet on some thread of its fabric 🤷‍♂️ It all about going green.
+May be all this talk about learning exhaust is non sense. Probably causes the information entropy equivalent of global warming making it harder to descern useful information. Or may be not. May be ones own brand of self importance is vital to the internet on some thread of its fabric 🤷‍♂️
 
 ## Editing guidelines
+
 One can use the [editor on GitHub](https://github.com/skattoju/skattoju.github.io/edit/main/index.md) to maintain and preview the content for skattoju's website in Markdown files.
 
 Whenever a change is committed to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in skattoju's site, from the content in skattoju's Markdown files.
