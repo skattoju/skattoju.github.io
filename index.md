@@ -6,12 +6,13 @@ Kubernetes was a steersman or pilot, and kubernesis is the act of steering
 
 Supposedly the internet is where one documents what one has learned. For example many years go an arbritary contribution to the <a href="https://github.com/skattoju/acs">simulation</a> and design of a passive magnetic attitude control system for a cubesat design which won a <a href="https://www.concordia.ca/cunews/encs/2012/10/01/first-place-finish-for-space-concordia-team.html">space craft mission design competition</a> 
 
-## Post Social Era
-With new age federated socials called <a rel="me" href="https://mastodon.social/@skattoju">Mastodon</a> and <a rel="mypixels" href="https://pixelfed.social/i/web/profile/580938769890078559">PixelFed</a>, who needs big tech ?
-
 ## Zero Emissions Learning
 
 May be all this talk about learning exhaust is non sense. Probably causes the information entropy equivalent of global warming making it harder to descern useful information. Or may be not. May be ones own brand of self importance is vital to the internet on some thread of its fabric 🤷‍♂️
+
+## Post Social Era
+
+With new age federated socials called <a rel="me" href="https://mastodon.social/@skattoju">Mastodon</a> and <a rel="mypixels" href="https://pixelfed.social/i/web/profile/580938769890078559">PixelFed</a>, who needs big tech ?
 
 ## Editing guidelines
 
